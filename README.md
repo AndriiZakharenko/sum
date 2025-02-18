@@ -1,26 +1,32 @@
 # Sum
 
-### Description
+## 🎮 About the Project
+A simple React component called `Sum` that takes `a` and `b` as props and displays a message in the format:  
+**"Sum of {a} and {b} is {a + b}."**  
 
-- Created a `Sum` component accepting `a` and `b` props and rendering a paragraph with a text like `Sum of 2 and 1 is 3`.
-  
-### Stack
+This project demonstrates the use of props, JSX, and component rendering in React.
 
-- HTML (BEM)
-- CSS (Bulma)
-- JS
-- React
-- ReactDOM
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (Bulma for styling)
+- **JavaScript** (Dynamic logic)
+- **React** (Component-based architecture)
+- **ReactDOM** (Efficient rendering)
 
-### Tools
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Babel** – JavaScript compiler for modern syntax  
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Babel
+## 📌 Features
+✅ Displays the sum of two numbers dynamically using props  
+✅ Clean and modular React component  
+✅ Follows best practices for JSX and component-based development  
 
-### Demo links
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/sum/)
 
-- [Demo](https://AndriiZakharenko.github.io/sum/)
-
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/react_sum)
